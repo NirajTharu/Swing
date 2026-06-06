@@ -17,7 +17,7 @@ public class firstSwing {
         // This will help to set the size of the window
         frame.setSize(400,400);
         // This will help to change the icon of image
-        ImageIcon image = new ImageIcon("ProfilePIc.png");
+        ImageIcon image = new ImageIcon("ProfilePic.png");
         frame.setIconImage(image.getImage());
         // This will make the window visible
         frame.setVisible(true);
