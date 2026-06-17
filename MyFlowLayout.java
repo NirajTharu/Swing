@@ -1,7 +1,6 @@
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
-import java.util.concurrent.Flow;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
