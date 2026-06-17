@@ -8,7 +8,6 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextField;
-import javax.swing.text.PlainDocument;
 
 public class myInputFields extends JFrame implements ActionListener {
     JButton button;
