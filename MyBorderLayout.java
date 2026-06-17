@@ -10,7 +10,6 @@ public class MyBorderLayout {
         3 common Managers: 
         Border Layout: A border layout places components in five areas: North, south , East , west , center
         All extra space is placed in the center area.
-
     */
     public static void main(String[] args) {
         JFrame frame = new JFrame();
